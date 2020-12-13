@@ -1,0 +1,13 @@
+Syntax:
+2 uppercase letters
+Random letter, uppercase or lowercase
+Number or uppercase/lowercase letter
+Combination of 20 upercase and lowecase letters and numbers
+Dot
+1 Uppercase letter
+5 numbers and uppercase/lowercase letters
+Dot
+27 Random numbers and uppercase/lowercase letters
+
+
+MT,MD and NT tokens are the most common, this will have a major chance of getting working tokens.
